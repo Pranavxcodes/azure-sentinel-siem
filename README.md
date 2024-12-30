@@ -27,6 +27,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+![Map](https://github.com/user-attachments/assets/b39a75b5-0f3c-486b-9430-4e9e14a0c459)
 
 
 
